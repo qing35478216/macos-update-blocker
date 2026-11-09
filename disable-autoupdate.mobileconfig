@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutomaticCheckEnabled</key>
+			<false/>
+			<key>AutomaticDownload</key>
+			<false/>
+			<key>AutomaticallyInstallMacOSUpdates</key>
+			<false/>
+			<key>ConfigDataInstall</key>
+			<false/>
+			<key>CriticalUpdateInstall</key>
+			<false/>
+			<key>PayloadDisplayName</key>
+			<string>自动更新设置</string>
+			<key>PayloadIdentifier</key>
+			<string>local.disable.autoupdate.settings</string>
+			<key>PayloadType</key>
+			<string>com.apple.SoftwareUpdate</string>
+			<key>PayloadUUID</key>
+			<string>2144D45B-9775-40E2-889D-01C501C8EF6A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>禁止自动检查、下载和安装 macOS 更新</string>
+	<key>PayloadDisplayName</key>
+	<string>关闭 macOS 自动更新</string>
+	<key>PayloadIdentifier</key>
+	<string>local.disable.autoupdate</string>
+	<key>PayloadOrganization</key>
+	<string>Local</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>99051603-CE1E-4D99-AC75-8FBE9E58E760</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
